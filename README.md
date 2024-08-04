@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemeabdolmaleki" alt="fatemeabdolmaleki" /></a> </p>
 
-- 🌱 I’m currently learning **html5,css3,javascript, react, next,bootstrap**
+- 🌱 I’m currently learning **html5,css3, Tailwind , javascript, react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatemeabdolmaleki](https://github.com/fatemeabdolmaleki)
 
-- 💬 Ask me about **html5,css3,javascript, react, next,bootstrap**
+- 💬 Ask me about **html5,css3, Tailwind ,javascript, react**
 
 - 📫 How to reach me **fatemeabdolmaleki703@gmail.com**
 
