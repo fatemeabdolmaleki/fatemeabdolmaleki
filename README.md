@@ -59,9 +59,3 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemeabdolmaleki&show_icons=true&locale=en&layout=compact" alt="fatemeabdolmaleki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemeabdolmaleki&show_icons=true&locale=en" alt="fatemeabdolmaleki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeabdolmaleki&" alt="fatemeabdolmaleki" /></p>
-
